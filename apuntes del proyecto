@@ -1,0 +1,7 @@
+# Tienes 79 localizaciones: 
+
+# geonear te da a partir de una geopoint una lista de empresas. Esa lista es la que tienes que agregar/agtupar. de tal forma que
+# para cada geopoint tendrás una lista de la que extraer info. pe. 
+
+# 1. la longitud de esa lista seŕa el num de empresas cercanas
+# 2. sumar los empleados de cada empresa de esa lista. 
